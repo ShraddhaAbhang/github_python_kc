@@ -5,6 +5,8 @@ Agenda:
     COntrol Statements
 '''
 
+
+
 '''
 Pyhtin: GVR, 1991, FREE
 Features: simple, easy, pop, oop, dynamically typed, intepreted, plt, indp, huge, lib
@@ -16,6 +18,8 @@ Operators:
     relational      ==      !=      <       <=      >       >=
     logical         and(dono condition)     ok(koi ek)      not(ulta)
 '''
+
+
 
 '''
 # Boolean Operators:
@@ -29,6 +33,7 @@ print((a<b) and (c>b))  True
 print((a<b) and (c>b))  True
 print(not(a<b))         False
 '''
+
 
 
 '''
